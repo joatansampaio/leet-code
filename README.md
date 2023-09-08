@@ -1,8 +1,8 @@
 # LeetCode Problem Solutions
 
-![LeetCode Logo](https://leetcode.com/static/images/logos/leetcode-logo.png)
+![image](https://github.com/joatansampaio/leet-code/assets/76176945/5798c6d0-38f4-43d8-ad9f-e85d3977c341)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B6F707&width=435&lines=Welcome+to+My+LeetCode+Repo.;These+are+my+personal+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2B56CF&width=450&lines=Welcome+to+my+Leet+Code+Repo)](https://git.io/typing-svg)
 
 Welcome to my LeetCode problem solutions repository! Here, you will find a collection of solutions to various LeetCode problems implemented in Python, Java, and C++. This repository is meant to help you understand and practice solving coding challenges on LeetCode.
 
