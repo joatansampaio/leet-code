@@ -19,14 +19,41 @@ LeetCode is a popular platform for practicing coding problems, preparing for tec
 Feel free to explore the solutions and use them as a reference when working on your own LeetCode challenges. However, I encourage you to attempt the problems yourself first to maximize your learning experience.
 
 ## Languages Used
-This repository includes solutions implemented in three different programming languages:
+This repository includes solutions implemented in multiple programming languages:
 
 - Python
 - Java
 - C++
+- JavaScript
+- PHP
 
 You can choose the language that you are most comfortable with or interested in learning.
 
 ## Directory Structure
 The repository is organized into directories based on the problem difficulty and language. The structure looks like this:
 
+├── Easy
+│ ├── Python
+│ ├── Java
+│ ├── C++
+│ ├── JavaScript
+│ └── PHP
+├── Medium
+│ ├── Python
+│ ├── Java
+│ ├── C++
+│ ├── JavaScript
+│ └── PHP
+├── Hard
+│ ├── Python
+│ ├── Java
+│ ├── C++
+│ ├── JavaScript
+│ └── PHP
+
+## Contributing
+As of now, this is just for practice. But if you feel like you can help somehow, feel free to contribute.
+
+
+## License
+MIT License 
