@@ -32,24 +32,24 @@ You can choose the language that you are most comfortable with or interested in 
 ## Directory Structure
 The repository is organized into directories based on the problem difficulty and language. The structure looks like this:
 
-├── Easy
-│ ├── Python
-│ ├── Java
-│ ├── C++
-│ ├── JavaScript
-│ └── PHP
-├── Medium
-│ ├── Python
-│ ├── Java
-│ ├── C++
-│ ├── JavaScript
-│ └── PHP
-├── Hard
-│ ├── Python
-│ ├── Java
-│ ├── C++
-│ ├── JavaScript
-│ └── PHP
+├── Easy</br>
+│ ├── Python</br>
+│ ├── Java</br>
+│ ├── C++</br>
+│ ├── JavaScript</br>
+│ └── PHP</br>
+├── Medium</br>
+│ ├── Python</br>
+│ ├── Java</br>
+│ ├── C++</br>
+│ ├── JavaScript</br>
+│ └── PHP</br>
+├── Hard</br>
+│ ├── Python</br>
+│ ├── Java</br>
+│ ├── C++</br>
+│ ├── JavaScript</br>
+│ └── PHP</br>
 
 ## Contributing
 As of now, this is just for practice. But if you feel like you can help somehow, feel free to contribute.
