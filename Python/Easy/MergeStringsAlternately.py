@@ -28,3 +28,5 @@ def mergeAlternately(word1, word2):
     return result
 
 print(mergeAlternately("abc", "pqr"))
+
+# Comment
